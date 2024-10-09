@@ -1,0 +1,10 @@
+D:\CODE\C#\Duan2\Duan2\bin\Debug\Duan2.exe.config
+D:\CODE\C#\Duan2\Duan2\bin\Debug\Duan2.exe
+D:\CODE\C#\Duan2\Duan2\bin\Debug\Duan2.pdb
+D:\CODE\C#\Duan2\Duan2\obj\Debug\Duan2.csproj.AssemblyReference.cache
+D:\CODE\C#\Duan2\Duan2\obj\Debug\Duan2.Form1.resources
+D:\CODE\C#\Duan2\Duan2\obj\Debug\Duan2.Properties.Resources.resources
+D:\CODE\C#\Duan2\Duan2\obj\Debug\Duan2.csproj.GenerateResource.cache
+D:\CODE\C#\Duan2\Duan2\obj\Debug\Duan2.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Duan2\Duan2\obj\Debug\Duan2.exe
+D:\CODE\C#\Duan2\Duan2\obj\Debug\Duan2.pdb
